@@ -1,2 +1,6 @@
 .env
 __pycache__
+
+# Ignore pickle/model files
+tfidf_matrix.pkl
+
