@@ -32,7 +32,18 @@ streamlit run app.py
 
 ## Screenshots
 
+
+## 🚀 Live Demo
+
+👉 https://movies-recommendation-b5jetnaqpnkt6dz4vifnyz.streamlit.app/
+
+## 📂 GitHub Repository
+
+👉 https://github.com/dheeraj693/Movies-Recommendation
+
 (Add screenshots here)
+
+
 
 ## Author
 
